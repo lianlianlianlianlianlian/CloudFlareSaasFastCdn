@@ -1,0 +1,140 @@
+{
+    "43.135.5.73": {
+        "delays": 9.97,
+        "curl_times": 0.123823,
+        "success_count": 627,
+        "fail_count": 0
+    },
+    "8.222.65.69": {
+        "delays": 57.8,
+        "curl_times": 0.19814,
+        "success_count": 204,
+        "fail_count": 0
+    },
+    "47.57.14.118": {
+        "delays": 12.8,
+        "curl_times": 0.498437,
+        "success_count": 203,
+        "fail_count": 0
+    },
+    "8.222.69.185": {
+        "delays": 60.3,
+        "curl_times": 0.201429,
+        "success_count": 375,
+        "fail_count": 0
+    },
+    "170.106.74.190": {
+        "delays": 164.0,
+        "curl_times": 0.518747,
+        "success_count": 128,
+        "fail_count": 0
+    },
+    "43.155.92.133": {
+        "delays": 9.86,
+        "curl_times": 0.097208,
+        "success_count": 111,
+        "fail_count": 0
+    },
+    "172.67.25.118": {
+        "delays": 160.0,
+        "curl_times": 0.523855,
+        "success_count": 80,
+        "fail_count": 0
+    },
+    "43.153.88.54": {
+        "delays": 166.0,
+        "curl_times": 0.535681,
+        "success_count": 65,
+        "fail_count": 0
+    },
+    "129.154.207.203": {
+        "delays": 47.1,
+        "curl_times": 0.16941,
+        "success_count": 56,
+        "fail_count": 0
+    },
+    "129.146.46.164": {
+        "delays": 182.0,
+        "curl_times": 0.563873,
+        "success_count": 56,
+        "fail_count": 0
+    },
+    "129.153.116.130": {
+        "delays": null,
+        "curl_times": null,
+        "success_count": 55,
+        "fail_count": 1
+    },
+    "129.146.243.241": {
+        "delays": 184.0,
+        "curl_times": 0.568054,
+        "success_count": 56,
+        "fail_count": 0
+    },
+    "47.57.245.232": {
+        "delays": 13.6,
+        "curl_times": 1.533721,
+        "success_count": 53,
+        "fail_count": 0
+    },
+    "47.251.33.121": {
+        "delays": 151.0,
+        "curl_times": 1.033384,
+        "success_count": 55,
+        "fail_count": 0
+    },
+    "8.222.68.129": {
+        "delays": 61.8,
+        "curl_times": 0.20438,
+        "success_count": 56,
+        "fail_count": 0
+    },
+    "47.254.17.234": {
+        "delays": 169.0,
+        "curl_times": 0.525407,
+        "success_count": 55,
+        "fail_count": 0
+    },
+    "149.129.8.215": {
+        "delays": 81.6,
+        "curl_times": 0.595625,
+        "success_count": 56,
+        "fail_count": 0
+    },
+    "8.222.68.116": {
+        "delays": 59.9,
+        "curl_times": 0.275124,
+        "success_count": 57,
+        "fail_count": 0
+    },
+    "149.104.29.178": {
+        "delays": 76.8,
+        "curl_times": 0.231979,
+        "success_count": 27,
+        "fail_count": 0
+    },
+    "43.153.119.207": {
+        "delays": 166.0,
+        "curl_times": 0.522969,
+        "success_count": 11,
+        "fail_count": 0
+    },
+    "47.243.35.200": {
+        "delays": null,
+        "curl_times": null,
+        "success_count": 0,
+        "fail_count": 3
+    },
+    "8.219.111.147": {
+        "delays": null,
+        "curl_times": null,
+        "success_count": 0,
+        "fail_count": 3
+    },
+    "8.218.53.110": {
+        "delays": null,
+        "curl_times": null,
+        "success_count": 0,
+        "fail_count": 3
+    }
+}
